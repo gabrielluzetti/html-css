@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Links</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        a {
+            color: red;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        a:visited {
+            color: darkred;
+        }
+        a:hover {
+            color: black;
+            text-decoration: underline;
+        }
+        a:active {
+            color: grey;
+        }
+
+        .especial::after {
+            content: ' !';
+        }
+        a::before {
+            content: '-> ';
+        }
+        .especial {
+            background-color: lightblue;
+        }
+    </style>
+</head>
+<body>
+    <h1>Personalizando meus links</h1>
+    <ul>
+        <li><a href="https://www.instagram.com/gabriel.luzetti/">Meu Instagram</a></li>
+        <li><a href="https://twitter.com/gabrielluzetti" class="especial">Meu Twitter - "x"</a></li>
+        <li><a href="https://www.linkedin.com/in/gabriel-luzetti-latr%C3%B4nico-55340226a/">Meu Linkedin</a></li>
+    </ul>
+    
+</body>
+</html>

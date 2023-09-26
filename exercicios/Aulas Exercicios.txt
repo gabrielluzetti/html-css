@@ -1,0 +1,23 @@
+ex001- Texto e Parágrafos
+ex002- Parágrafos, Quebra de Linha (simbolos especiais e emojis)
+ex003- Testando carga e Imagens
+ex004- Favicon 
+ex005- -
+ex006- Hierarquia do <h>
+ex007- Semântica / <address> - endereço
+ex008- Formatações Negrito <strong>/Itálico <EM>/Marca-Texto <mark>/Sublinhado <ins>/Texto Deletado <del>/ Sobrescritos(<sup>/<sub>)
+ex008b- Outras Formatações, código<code>/manter a forma<pre>/Citação <blockquote>/Aspas (semântica) <q>/ Abreviações <abbr>
+ex009- lista ordenada <ol> / lista desordenada <ul> / linhas da lista <li> / Lista de Definições <dt> <dd>. type=(disc, circle, square) (1, A, a, I,i)
+ex010- links e âncoras<a>/downloads, target="_blank" / target="_self" / rel="external" / rel="next" / rel="prev"
+ex011- Imagens Dinâmica P|M|G, <picture> <source:media:type>| Audio <audio> <source:src>
+ex012- Vídeos - <source:src> / type="video/mp4" / type="video/webm" (e vídeos do YT apenas colar)
+ex013- Estilos Inline (passado, não utilizado)
+ex014- CSS <style> / body{}
+ex015- Estilo Externo /<link:css> (regra: @charset "UTF-8")
+ex016- <main> - style="" dentro do <h1>
+ex017- fontes em CSS, text-align: center/justify / text-indent: 30px; (para fazer parágrafo igual de redação)
+ex018- @import url('link') / (para fontes baixadas) @font-face { (não esquecer de nomear a fonte)
+ex019- id="", class="" / # "." 
+ex020- <div>/ div:hover > p / a:visited / a:hover(passar o mouse) / a:active(clica com o mouse)
+       <div id="d1"> 01 </div>                                      a::after / a::before
+ex021-
